@@ -20,3 +20,11 @@ Yarn
 yarn install
 corepack enable
 yarn -v
+Git
+git clone https://github.com/strapi/strapi.git
+git init
+git checkout -b rucha-strapi
+git push
+
+Strapi Run Command
+yarn develop
